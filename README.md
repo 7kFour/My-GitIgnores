@@ -1,1 +1,2 @@
-# My-GitIgnores
+# Gitignore Files modified from the GitHub repo
+
